@@ -12,7 +12,7 @@ Depois de instalado volte ao terminal já dentro do projeto e rode o seguinte co
 
     npm run dev
    Após esse comando ser finalizado seu terminal ficará com a seguinte mensagem:
-![Imagem do terminal rodando o servidor local da api](https://prnt.sc/rf5w6rU5c-S0)
+![Imagem do terminal rodando o servidor local da api](https://ibb.co/KLP5Hvm)
 
 Seu servidor estará rodando na porta: **3000** no endereço: http://localhost:3000.
 
@@ -20,7 +20,7 @@ Pronto !! <3 Seu backend está rodando e pronto para receber requisições.
 
 ## Estrutura do projeto:
 
-![Foto da estrutura do projeto backend](https://prnt.sc/zaWps8RgC9V4)
+![Foto da estrutura do projeto backend](https://ibb.co/GRYZfyy)
 
 *Temos as seguintes pastas:*
 	**Nodemodules** - Padrão do NodeJs para armazenas as libs utilizadas;
