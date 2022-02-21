@@ -24,6 +24,7 @@ Pronto !! <3 Seu backend está rodando e pronto para receber requisições.
 ![Foto da estrutura do projeto backend](https://i.ibb.co/dDCNsFF/projeto-estrutura.png)
 
 ***Temos as seguintes pastas:***
+[lista]
 	**Nodemodules** - Padrão do NodeJs para armazenas as libs utilizadas;
 	**SRC** - Pasta onde ficam todos os arquivos referentes a configurações, roteamento e controllers do projeto;
 	**Config** - Pasta onde se localiza a configuração do active directory;
